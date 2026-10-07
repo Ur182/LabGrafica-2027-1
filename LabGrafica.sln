@@ -2,7 +2,7 @@
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "P5 - Carga de modelos", "P5\LabGrafica\P5.vcxproj", "{46AF141F-7269-5032-8417-06C0D47C694B}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "P4 - Modelado jerarquico", "P4\P4.vcxproj", "{CDC9902B-00DF-511D-8E55-4C14C7EABD29}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -12,14 +12,14 @@ Global
 		Release|x64 = Release|x64
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{46AF141F-7269-5032-8417-06C0D47C694B}.Debug|Win32.ActiveCfg = Debug|Win32
-		{46AF141F-7269-5032-8417-06C0D47C694B}.Debug|Win32.Build.0 = Debug|Win32
-		{46AF141F-7269-5032-8417-06C0D47C694B}.Debug|x64.ActiveCfg = Debug|x64
-		{46AF141F-7269-5032-8417-06C0D47C694B}.Debug|x64.Build.0 = Debug|x64
-		{46AF141F-7269-5032-8417-06C0D47C694B}.Release|Win32.ActiveCfg = Release|Win32
-		{46AF141F-7269-5032-8417-06C0D47C694B}.Release|Win32.Build.0 = Release|Win32
-		{46AF141F-7269-5032-8417-06C0D47C694B}.Release|x64.ActiveCfg = Release|x64
-		{46AF141F-7269-5032-8417-06C0D47C694B}.Release|x64.Build.0 = Release|x64
+		{CDC9902B-00DF-511D-8E55-4C14C7EABD29}.Debug|Win32.ActiveCfg = Debug|Win32
+		{CDC9902B-00DF-511D-8E55-4C14C7EABD29}.Debug|Win32.Build.0 = Debug|Win32
+		{CDC9902B-00DF-511D-8E55-4C14C7EABD29}.Debug|x64.ActiveCfg = Debug|x64
+		{CDC9902B-00DF-511D-8E55-4C14C7EABD29}.Debug|x64.Build.0 = Debug|x64
+		{CDC9902B-00DF-511D-8E55-4C14C7EABD29}.Release|Win32.ActiveCfg = Release|Win32
+		{CDC9902B-00DF-511D-8E55-4C14C7EABD29}.Release|Win32.Build.0 = Release|Win32
+		{CDC9902B-00DF-511D-8E55-4C14C7EABD29}.Release|x64.ActiveCfg = Release|x64
+		{CDC9902B-00DF-511D-8E55-4C14C7EABD29}.Release|x64.Build.0 = Release|x64
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -65,8 +65,8 @@ int main() {
 		-0.5f,  0.5f, 0.0f,   1.0f,1.0f,0.0f, // top left 
 	};
 	unsigned int indices[] = {  // note that we start from 0!
-		3,2,1,// second Triangle
-		0,1,3,
+		0,3,1,
+		/*0,2,3,*/// second Triangle
 		
 	};
 
@@ -120,17 +120,15 @@ int main() {
         glBindVertexArray(VAO);
 
 
-        glPointSize(1);
-        glDrawArrays(GL_POINTS,0,1);
+        /*glPointSize(10);
+        glDrawArrays(GL_POINTS,0,4);*/
         
-        //glDrawArrays(GL_LINES,0,2);
-        //glDrawArrays(GL_LINE_LOOP,0,4);
+        /*glDrawArrays(GL_LINES,0,4);*/ //Del vertice o toma dos puntos, es decir al vertice 1
+        /*glDrawArrays(GL_LINE_LOOP,0,4);*/
         
-        //glDrawArrays(GL_TRIANGLES,0,3);
-        //glDrawElements(GL_TRIANGLES, 3,GL_UNSIGNED_INT,0);
+        /*glDrawArrays(GL_TRIANGLES,0,4);*/
+        glDrawElements(GL_TRIANGLES, 6,GL_UNSIGNED_INT,0);
 
-        
-        
         glBindVertexArray(0);
     
 		// Swap the screen buffers
