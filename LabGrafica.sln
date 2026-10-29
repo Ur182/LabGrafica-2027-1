@@ -2,7 +2,7 @@
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "P8 - Fuentes de luz", "P8\P8.vcxproj", "{FA7886E1-447C-58B2-9A4C-D43A2524A344}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "P9 - Maquina de estados", "P9\P9.vcxproj", "{6119FB69-A46A-5E65-BA60-5717CD4A6DF3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -12,14 +12,14 @@ Global
 		Release|x64 = Release|x64
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{FA7886E1-447C-58B2-9A4C-D43A2524A344}.Debug|Win32.ActiveCfg = Debug|Win32
-		{FA7886E1-447C-58B2-9A4C-D43A2524A344}.Debug|Win32.Build.0 = Debug|Win32
-		{FA7886E1-447C-58B2-9A4C-D43A2524A344}.Debug|x64.ActiveCfg = Debug|x64
-		{FA7886E1-447C-58B2-9A4C-D43A2524A344}.Debug|x64.Build.0 = Debug|x64
-		{FA7886E1-447C-58B2-9A4C-D43A2524A344}.Release|Win32.ActiveCfg = Release|Win32
-		{FA7886E1-447C-58B2-9A4C-D43A2524A344}.Release|Win32.Build.0 = Release|Win32
-		{FA7886E1-447C-58B2-9A4C-D43A2524A344}.Release|x64.ActiveCfg = Release|x64
-		{FA7886E1-447C-58B2-9A4C-D43A2524A344}.Release|x64.Build.0 = Release|x64
+		{6119FB69-A46A-5E65-BA60-5717CD4A6DF3}.Debug|Win32.ActiveCfg = Debug|Win32
+		{6119FB69-A46A-5E65-BA60-5717CD4A6DF3}.Debug|Win32.Build.0 = Debug|Win32
+		{6119FB69-A46A-5E65-BA60-5717CD4A6DF3}.Debug|x64.ActiveCfg = Debug|x64
+		{6119FB69-A46A-5E65-BA60-5717CD4A6DF3}.Debug|x64.Build.0 = Debug|x64
+		{6119FB69-A46A-5E65-BA60-5717CD4A6DF3}.Release|Win32.ActiveCfg = Release|Win32
+		{6119FB69-A46A-5E65-BA60-5717CD4A6DF3}.Release|Win32.Build.0 = Release|Win32
+		{6119FB69-A46A-5E65-BA60-5717CD4A6DF3}.Release|x64.ActiveCfg = Release|x64
+		{6119FB69-A46A-5E65-BA60-5717CD4A6DF3}.Release|x64.Build.0 = Release|x64
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
