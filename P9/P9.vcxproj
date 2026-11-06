@@ -31,8 +31,6 @@
     <None Include="Shader\core.vs" />
     <None Include="Shader\lighting.frag" />
     <None Include="Shader\lighting.vs" />
-    <None Include="Shader\modelLoading.frag" />
-    <None Include="Shader\modelLoading.vs" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Maquina de estados.cpp" />
